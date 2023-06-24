@@ -1,4 +1,5 @@
-﻿using System.Runtime.InteropServices;
+//sqrt(absloute value(x)+y^2)
+using System.Runtime.InteropServices;
 
 namespace second
 {
